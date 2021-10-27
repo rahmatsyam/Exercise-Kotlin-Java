@@ -6,6 +6,7 @@ public class MaxNumber {
         double b = 12.456;
   
         // prints the maximum of two numbers
-        System.out.println(Math.max(a, b));
+        System.out.println("Max Number = ");
+        System.out.print(Math.max(a, b));
     }
 }
