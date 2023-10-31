@@ -1,3 +1,7 @@
+package odd_number;
+
+import java.util.Scanner;
+
 class OddNumber
 {
   public static void main(String args[])
